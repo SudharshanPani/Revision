@@ -1,0 +1,23 @@
+.app-name{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.app-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-num{
+    margin:0px 20px ;
+}
+
+.app-btn{
+    background-color: gray;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
